@@ -20,12 +20,6 @@ This project is a Windows 8-style interactive dashboard built using HTML, CSS, a
 - Font Awesome – Icons for dashboard tiles.
 - Segoe UI Font – Windows-inspired typography.
 
-## Project Structure
-### Windows-8-UI/
-- index.html: _Main HTML file_
-- style.css:             _Stylesheet for layout, colors, and animations_
-- README.md:             _Project description_
-
 ## Responsive Behavior
 
 - Desktop: Tiles arranged in multiple rows with hover animations active.
