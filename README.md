@@ -22,9 +22,9 @@ This project is a Windows 8-style interactive dashboard built using HTML, CSS, a
 
 ## Project Structure
 ### Windows-8-UI/
-- index.html            _Main HTML file_
-- style.css             _Stylesheet for layout, colors, and animations_
-- README.md             _Project description_
+- index.html: _Main HTML file_
+- style.css:             _Stylesheet for layout, colors, and animations_
+- README.md:             _Project description_
 
 ## Responsive Behavior
 
