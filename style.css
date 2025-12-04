@@ -1,0 +1,125 @@
+body{
+    background-color: #0f6d39;
+    font-size: 1.2vw;
+    margin: 0px;
+    padding:0px;
+    color:white;
+    font-family: 'Segoe UI';
+}
+.titel{
+    color: white;
+    font-size: 2em;
+    line-height: 2vw;
+    font-weight:lighter;
+    margin-top: 1.4%;
+}
+.boven{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1%;
+    margin-left: 2.2%; 
+    margin-right: 2.2%;
+}
+.achternaam{
+    font-size: .5em !important;
+    position: relative;
+    left: 20%; 
+}
+.rij{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 1%;
+}
+i{
+    color: #ffffff !important;
+    font-size: 2.6em;
+}
+i:hover{
+    transform: scale(1.2); 
+    transition: transform 0.3s ease;  
+}
+.vakken_2{
+    width: 20%; 
+    height:9vw;
+    display: flex;
+}
+.huis,.settings, .camera, .facebook,.facetime,.favorite,.x,.places,.galerij,.task,.cmd,.skydrive,.browser,.email,.media,.agenda{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:1%;
+}
+.galerij{
+    background-image: url(https://images.unsplash.com/photo-1575936123452-b67c3203c357?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D); /*Ik kon ook dit doen background-image: url(./imgs/naamvandeimage)*/
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.cmd{
+    background-color: #d22a4e;
+}
+.places,.media{
+    background-color: #dbb703;
+}
+.favorite,.skydrive{
+    background-color: #61b812;
+}
+.facetime,.x{
+    background-color: #03b9e3;
+}
+.facebook,.task,.media{
+    margin-left:6% !important;
+}
+.huis, .facebook,.agenda{
+    background-color: #1e90ff;
+}
+.tekstlinkshoekbeneden{
+    font-size: .85em !important;
+    padding-left: .8%;
+    position: absolute;
+    bottom:3%;
+    left: 3%;
+}
+.settings,.email{
+    background-color: #e76022;
+}
+.camera,.task, .browser{
+    background-color: #da312e;
+}
+.vakken_1{
+    width: 9.5%;
+    height:9vw;
+    display: flex;
+}
+.heelding{
+    position: absolute;
+    right:8%;
+    top:2%;
+}
+.getal{
+    font-size: 3.5em;
+    font-weight:lighter;
+}
+.dag{
+    font-size: .7em !important;
+    position: relative;
+    left: 9.5%;
+}
+.note{
+    font-size:.8em;
+    position: absolute;
+    top: 18%;
+    left:5%;
+    padding: 0% 1.7% 0% 1.7%;
+}
+footer{
+    color: rgba(184, 171, 171, 0.719);
+    font-size: .8em;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.vakken_2:hover,.vakken_1:hover {
+    transform: scale(1.08); 
+    transition: transform 0.3s ease;    
+}
