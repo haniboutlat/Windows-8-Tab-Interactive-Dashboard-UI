@@ -21,10 +21,10 @@ This project is a Windows 8-style interactive dashboard built using HTML, CSS, a
 - Segoe UI Font – Windows-inspired typography.
 
 ## Project Structure
-Windows-8-UI/
-├─ index.html           # Main HTML file
-├─ style.css            # Stylesheet for layout, colors, and animations
-└─ README.md            # Project description
+### Windows-8-UI/
+- index.html            _Main HTML file_
+- style.css             _Stylesheet for layout, colors, and animations_
+- README.md             _Project description_
 
 ## Responsive Behavior
 
