@@ -29,7 +29,7 @@ This project is a Windows 8-style interactive dashboard built using HTML, CSS, a
 ## How to Run
 
 1. **Clone the repository:**
-  git clone https://github.com/your-username/Windows-8-UI.git
+  git clone https://github.com/haniboutlat/Windows-8-Tab-Interactive-Dashboard-UI.git
 2. Open index.html in your preferred web browser.
 3. Interact with the dashboard and hover over tiles to see animations.
 
